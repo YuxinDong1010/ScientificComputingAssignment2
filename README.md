@@ -6,7 +6,7 @@ Be cautious to the optional question where you will use parallel SOR algorithm. 
 
 Once you run this cell, the other cells will be much slower. What you can do to solve this issue:
 
-Run **Kernel -\> Restart & Clear Output** to clear the Notebook's state and then rerun it.
+Run **Kernel -\> Restart & Clear Output** to clear the Notebook's state and then rerun the other cells.
 
 ---
 ## Getting started
